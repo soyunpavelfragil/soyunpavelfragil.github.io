@@ -3,7 +3,7 @@
 欢迎访问 www.on9.org.ng. 
 本站基于 Github 的仓库服务进行构建.
 
->> 如果您想要访问完整版本的 Pavel's Blog 站点, 请点击 [这里](https://pavelwang.com) to rebuild the pages in your site, from the content in your Markdown files.
+>如果您想要访问完整版本的 Pavel's Blog 站点, 请点击 [这里](https://pavelwang.com) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
