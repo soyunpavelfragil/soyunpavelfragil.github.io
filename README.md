@@ -7,7 +7,7 @@
 > 如果您想要访问完整版本的 CTU.SU (也即 Pavel 的个人 Blog 站点), 请点击 [这里](https://ctu.su).
 
 
-> 如果您想要从此页请求 Pavel's Resume 简历页面, 请点击 [这里](https://pavel.wang).
+> 如果您想要从此页请求 Pavel's Resume 简历页面, 请点击 [这里](https://pavel.wang), 或是访问域名 https://www.on9.org.ng/resume 进行取得.
 
 ### 与 Pavel 取得联系的方式
 
