@@ -8,6 +8,6 @@
 
 > 如果您想要从此页请求 Pavel's Resume 简历页面, 请点击 [这里](https://pavel.wang).
 
-### Support or Contact
+### 
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
