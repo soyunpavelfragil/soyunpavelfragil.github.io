@@ -5,7 +5,7 @@
 
 > 如果您想要访问完整版本的 Pavel's Blog 站点, 请点击 [这里](https://ctu.su).
 
-> 如果您想要从此页请求 Pavel's Resume 简历页面, 请点击 [这里](https://pavel.wan
+> 如果您想要从此页请求 Pavel's Resume 简历页面, 请点击 [这里](https://pavel.wang).
 
 ### Markdown
 
